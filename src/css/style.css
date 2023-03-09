@@ -1,0 +1,77 @@
+body{
+    background-color: #a5e8e8;
+    
+}
+.bg-photo {
+  width: 70vw;
+  height: 40vh;
+  margin-right: 0px;
+  object-fit: fill;
+}
+
+.container-outer {
+
+  margin-top: 3%;
+  border-radius: 0.5rem;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: rgb(255, 255, 255);
+  min-height: 12rem;
+}
+.container-inner{
+    width: 100%;
+    position: relative;
+    border-radius: 0.5rem;
+}
+
+.container-1{
+    background-image: url(".././images/bg-img.avif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+/* .profile-img {
+  width: 15rem;
+  height: 15rem;
+  margin-top: -50rem;
+  border-radius: 50%;
+  margin-bottom: -20rem;
+  margin-left: -1rem;
+  border: 3px solid white;
+  border-image: url(border.png) 20% round;
+  
+} */
+.icons{
+    background-color:none;
+    width: 25px;
+    height: 25px;
+    color: #009B77;
+    /* border-radius: 50%; */
+}
+.padding{
+    
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    color: black;
+}
+
+
+.testimonial-card .card-up {
+    height: 120px;
+    overflow: hidden;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    }
+    
+    .testimonial-card .avatar {
+    width: 110px;
+    margin-top: -60px;
+    overflow: hidden;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    }
+
+
+    .bg-div{
+        background-color: #9d789b;
+        height: 200px;
+    }
